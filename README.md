@@ -32,5 +32,7 @@ Dengan sistem ini, data nasabah, jenis sampah, serta transaksi setoran sampah da
 # Status Pengembangan
 
 ☑ Initial Commit (README.md)
+
 ☑ Design Commit (Class Diagram)
+
 ☐ First Code Commit (Skeleton Code)
